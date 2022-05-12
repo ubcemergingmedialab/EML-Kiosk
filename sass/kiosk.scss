@@ -1,0 +1,12 @@
+/* IMPORTANT: DO NOT EDIT .CSS FILES IN THIS PROJECT. */
+
+body {
+  > * {
+    display: none;
+  }
+}
+
+body > .hentry.page {
+  display: block;
+  padding: 10px;
+}
